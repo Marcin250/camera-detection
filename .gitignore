@@ -2,3 +2,4 @@
 .idea
 virtual-env
 venv
+app/__pycache__
