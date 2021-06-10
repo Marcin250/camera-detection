@@ -1,6 +1,6 @@
+from typing import Union
 import cv2
 from cv2 import VideoCapture
-from typing import Union
 from numpy import ndarray
 
 

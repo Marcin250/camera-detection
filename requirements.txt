@@ -1,2 +1,6 @@
 opencv_python==4.5.2.52
 python-dotenv==0.17.1
+
+opencv-python~=4.5.2.52
+numpy~=1.19.3
+imageai~=2.1.6
